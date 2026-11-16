@@ -1,1 +1,1 @@
-ML project (linear regression - batch gradient descent) (housing values)
+ML project (linear regression - batch gradient descent - MLPRegressor) (housing values)
